@@ -19,3 +19,10 @@ Features
 *  Configurable settings for dirs (useful for people with unusual partitioning)
 *  Space and directories checks on all stages of install/uninstall
 *  Simple procedure for adding new games
+
+More info and screenshots
+---------------------
+
+[wgames Maemo Talk thread](http://talk.maemo.org/showthread.php?t=70795)
+[wgames Maemo Packages Page](http://maemo.org/packages/view/wgames/)
+[wgames Garage Page](https://garage.maemo.org/projects/wgames/)
