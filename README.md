@@ -23,6 +23,6 @@ Features
 More info and screenshots
 ---------------------
 
-[wgames Maemo Talk thread](http://talk.maemo.org/showthread.php?t=70795)
-[wgames Maemo Packages Page](http://maemo.org/packages/view/wgames/)
-[wgames Garage Page](https://garage.maemo.org/projects/wgames/)
+*  [wgames Maemo Talk thread](http://talk.maemo.org/showthread.php?t=70795)
+*  [wgames Maemo Packages Page](http://maemo.org/packages/view/wgames/)
+*  [wgames Garage Page](https://garage.maemo.org/projects/wgames/)
