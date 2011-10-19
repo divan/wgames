@@ -1,0 +1,10 @@
+[Info]
+Title=Astraware Casino
+Description="Try your luck with Astraware Casino - a collection of the most popular casino games all in one pack. Enjoy all the fun of a real casino on your smartphone without losing your shirt! Astraware Casino features 11 of the most popular games found in casinos around the world including Texas Hold 'Em No Limit Poker, Roulette, Slots, and Blackjack. You'll also get $1000 in your virtual wallet so you can start playing right away."
+Genre=Casino
+PreviewImage=astraware_casino.png
+IPK_Name=com.astraware.casino*_all.ipk
+Space_Required=5
+ID="com.astraware.casino"
+URL=http://www.astraware.com/all/featured/casino?page=description
+

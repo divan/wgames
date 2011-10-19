@@ -1,0 +1,10 @@
+[Info]
+Title=Monopoly
+Description="Own and manage the famous holdings, which come to life with animated tokens & interactive features. Shake your device to “roll” 3D dice and own it all while playing solo or against friends."
+Description_ru_RU="Яркая и красочная реализация настольной игры 'Монополия'. В этой классической настольной игре вы запросто обучитесь торговле недвижимостью. Чтобы подбросить кубики, встрясите телефон. Любителям жанра рекомендуется."
+Genre=Board
+PreviewImage=monopoly.png
+IPK_Name=com.ea.app.monopoly*.ipk
+Space_Required=27
+ID="com.ea.app.monopoly.*"
+URL=http://developer.palm.com/webChannel/index.php?packageid=com.ea.app.monopoly

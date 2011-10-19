@@ -1,0 +1,13 @@
+[Info]
+Title=Earthworm Jim
+Description="Jim was an ordinary earthworm who did very earthworm-like things. One day, during a battle in outer space, a suit dropped to Earth and landed on Jim, mutating him into a large and intelligent (at least by earthworm standards) superhero. Play as the grooviest earthworm in the galaxy and explore a crazy universe that offers huge gameplay possibilities."
+Description_ru_RU="Джим - здоровенный дождевой червь, отправившийся спасать принцессу, побеждая на своём пути множество врагов. Основные возможности: Бегайте, стреляйте, цеплйтесь хлыстом, растущим из головы, запускайте коров, прыгайте с невообразимых высот и плавайте в подводных уровнях, встретьтесь лицом к лицу с 12 типами врагов и с 9 боссами, 4 разных стиля геймплея: сайд-скролл бег со стрельбой, космические гонки, бэйс-джампинг, подводное плавание,10 оригинальных локаций, поделенных на 16 уровней, 4 уровня сложности, включая по-настоящему сложный оригинальный режим."
+Genre=Arcade
+PreviewImage=earthworm_jim.png
+IPK_Name=com.gameloft.app.earthwormjim*_all.ipk
+Space_Required=95
+ID=com.gameloft.app.earthwormjim
+URL=http://www.gameloft.com/palm/earthworm-jim/
+Notes="The game is configured to use touchscreen and keyboard<br />Please, use A,D,W,X and Q,E,Z,C keys for moving.<br />More keys:<br />M - menu, P - whip, L - jump, O - gun"
+Notes_ru_RU="Управления в игре адаптировано для использования тачскрина и клавиатуры.<br />Для перемещения пользуйтесь клавишами A,D,W,X и Q,E,Z,C<br />Дополнительно:<br />M - меню, P - хлыст, L - прыжок, O - пистолет"
+Postinstall=earthworm_jim.sh

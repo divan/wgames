@@ -1,0 +1,11 @@
+[Info]
+Title=Let's Golf
+Description="Play the family golf game and discover a fun atmosphere making golf accessible to anyone with 63 holes in 4 environments in 3D and 4 characters to customize."
+Description_ru_RU="Cимулятор гольфа. Вас ждёт: 64 лунки на 4 картах (пляж Фиджи, американские горы, английская деревня, шотландские луга), 4 уникальных игрока, каждый со своими сильными и слабыми сторонами, адаптивное управление игрой: полная реалистичность (включая подкрутку мячика) для профессионалов и простое управление для новичков."
+Game=Sport Simulator
+PreviewImage=letsgolf.png
+IPK_Name=com.gameloft.app.letsgolf*_all.ipk
+Space_Required=138
+ID=com.gameloft.app.letsgolf
+URL=http://www.gameloft.com/palm/lets-golf
+

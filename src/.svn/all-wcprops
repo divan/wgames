@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/wgames/!svn/ver/37/trunk/src
+END
+installwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/wgames/!svn/ver/30/trunk/src/installwindow.cpp
+END
+uninstallwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/wgames/!svn/ver/30/trunk/src/uninstallwindow.cpp
+END
+installwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/wgames/!svn/ver/17/trunk/src/installwindow.h
+END
+actionwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/wgames/!svn/ver/1/trunk/src/actionwindow.cpp
+END
+src.pro
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/wgames/!svn/ver/36/trunk/src/src.pro
+END
+uninstallwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/wgames/!svn/ver/1/trunk/src/uninstallwindow.h
+END
+saveswindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/wgames/!svn/ver/1/trunk/src/saveswindow.cpp
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/wgames/!svn/ver/36/trunk/src/config.h
+END
+actionwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/wgames/!svn/ver/1/trunk/src/actionwindow.h
+END
+trackercfg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/wgames/!svn/ver/37/trunk/src/trackercfg.cpp
+END
+mainwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/wgames/!svn/ver/36/trunk/src/mainwindow.cpp
+END
+findipkwindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/wgames/!svn/ver/33/trunk/src/findipkwindow.cpp
+END
+saveswindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/wgames/!svn/ver/1/trunk/src/saveswindow.h
+END
+managewindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/wgames/!svn/ver/20/trunk/src/managewindow.cpp
+END
+trackercfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/wgames/!svn/ver/36/trunk/src/trackercfg.h
+END
+mainwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/wgames/!svn/ver/36/trunk/src/mainwindow.h
+END
+findipkwindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/wgames/!svn/ver/33/trunk/src/findipkwindow.h
+END
+gameslistdelegate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/wgames/!svn/ver/1/trunk/src/gameslistdelegate.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/wgames/!svn/ver/1/trunk/src/main.cpp
+END
+gameinfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/wgames/!svn/ver/31/trunk/src/gameinfo.cpp
+END
+managewindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/wgames/!svn/ver/17/trunk/src/managewindow.h
+END
+gamesdata.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/wgames/!svn/ver/1/trunk/src/gamesdata.cpp
+END
+gameslistdelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/wgames/!svn/ver/1/trunk/src/gameslistdelegate.h
+END
+settingswindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/wgames/!svn/ver/36/trunk/src/settingswindow.cpp
+END
+gameinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/wgames/!svn/ver/17/trunk/src/gameinfo.h
+END
+gamesdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/wgames/!svn/ver/1/trunk/src/gamesdata.h
+END
+settingswindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/wgames/!svn/ver/36/trunk/src/settingswindow.h
+END

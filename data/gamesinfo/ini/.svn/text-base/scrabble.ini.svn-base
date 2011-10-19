@@ -1,0 +1,10 @@
+[Info]
+Title=Scrabble
+Description="THE WORD FOR F-U-N The game you know and love is ready to play anytime, anywhere. MORE WORDPLAY FUN FOR EVERYONE Savor a game solo or with friends with Pass ‘n Play. COOL CONTROLS Shake to shuffle letters, drag 'n drop to place tiles, or pinch zoom for a better view. "
+Game=Board
+PreviewImage=scrabble.png
+IPK_Name=com.ea.app.scrabble*_all.ipk
+Space_Required=138
+ID="com.ea.app.scrabble"
+URL=http://developer.palm.com/appredirect/?packageid=com.ea.app.scrabble
+

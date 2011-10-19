@@ -1,0 +1,10 @@
+[Info]
+Title=Oregon Trail
+Description="Your favorite pioneering adventure game is now available on your cell phone in a side-scrolling adventure! From Independence, MI to the Wiliamette Valley in Oregon, build real-life decision-making and problem-solving skills as you choose your wagon party and supplies, read maps, plan your route, and guide your party through the unknown frontier. Survive the dangers of the long journey, from raging rivers and bear attacks to sickness and starvation, in the renowned historical adventure based on real decisions faced by the pioneers."
+Desription_ru_RU="Проведите караван переселенцев из Миссури в долину Оригона. По пути вам предстоит приобрести много полезных навыков и защитить переселенцев от диких животных!"
+Genre=Adventure
+PreviewImage=oregon_trail.png
+IPK_Name=com.gameloft.app.oregontrail*_all.ipk
+Space_Required=85
+ID=com.gameloft.app.oregontrail
+URL=http://www.gameloft.com/palm/the-oregon-trail

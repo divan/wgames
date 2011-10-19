@@ -1,0 +1,10 @@
+[Info]
+Title=Radiant
+Description="Take your stand against the alien horde in a pure arcade/action space shooter. Cut through hundreds of creeps to face giant monsters in unique bossfights. Collect special weapons and power-ups, upgrade your ship and save your homeworld! Relive the classics revamped."
+Genre=Arcade Space Shooter
+PreviewImage=radiant.png
+IPK_Name=net.hexage.radiant*_all.ipk
+Space_Required=138
+ID="net.hexage.radiant"
+URL=http://developer.palm.com/appredirect/?packageid=net.hexage.radiant
+

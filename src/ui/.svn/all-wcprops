@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/wgames/!svn/ver/33/trunk/src/ui
+END
+actionwindow.ui
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/wgames/!svn/ver/1/trunk/src/ui/actionwindow.ui
+END
+settingswindow.ui
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/wgames/!svn/ver/1/trunk/src/ui/settingswindow.ui
+END
+saveswindow.ui
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/wgames/!svn/ver/1/trunk/src/ui/saveswindow.ui
+END
+findipkwindow.ui
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/wgames/!svn/ver/33/trunk/src/ui/findipkwindow.ui
+END
+mainwindow.ui
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/wgames/!svn/ver/1/trunk/src/ui/mainwindow.ui
+END
+managewindow.ui
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/wgames/!svn/ver/17/trunk/src/ui/managewindow.ui
+END

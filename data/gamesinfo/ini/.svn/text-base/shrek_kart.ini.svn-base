@@ -1,0 +1,13 @@
+[Info]
+Title=Shrek Kart
+Description="Once Upon a Time… Shrek and his friends are on a quest: To become the Kingdom’s Fastest Kart Racer! Race to your own Fairy Tale ending behind the wheel of each character’s custom-built kart and try to win Ye Grand Tournament"
+Description_ru_RU="Шрек и его друзья решили: они станут быстрейшими картингистами в королевстве! 4 одиночных режима, мультиплеер, 10 уникальных картов, километры гоночных забав, а также 19 кубков Турнира и 72 соревнования!"
+Genre=Racing
+PreviewImage=shrek_kart.png
+IPK_Name=com.gameloft.app.shrekkarting*_all.ipk
+Space_Required=86
+ID=com.gameloft.app.shrekkarting
+URL=http://www.gameloft.com/palm/shrek-kart/
+Preload="PowerVR:BIN_DIR"
+Postinstall=shrek_kart.sh
+SaveFiles="data.sav"

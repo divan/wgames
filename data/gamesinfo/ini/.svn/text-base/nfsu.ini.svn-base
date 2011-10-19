@@ -1,0 +1,11 @@
+[Info]
+Title=Need For Speed Undercover
+Description="Need for Speed Undercover has players racing through speedways, dodging cops and chasing rivals as they go deep undercover to take down an International crime syndicate. The game heralds the return of high-intensity police chases and introduces the all-new 'Heroic Driving Engine' -- a unique technology that generates incredible high-performance moves at 180 miles per hour during breathtaking highway battles. A mix of computer graphics and live-action movies immerses gamers in the rich world of the Tri-City Bay Area. Amazing graphics, accelerometer controls."
+Description_ru_RU="В Need for Speed Undercover вы окажетесь в центре событий высокобюджетного голливудского фильма, в котором вас ждут драматические повороты сюжета, захватывающие действия и скоростные погони. Уникальное программное ядро Heroic Driving Engine предоставит вам абсолютный контроль над лучшими скоростными авто и заставит использовать все свое мастерство, дабы победить в гонке с законом и обыграть криминальных соперников. Управление с помощью акселерометра, потрясающая графика и управление."
+Genre=Racing
+PreviewImage=nfsu.png
+IPK_Name=com.ea.app.nfsuc*_all.ipk
+Space_Required=116
+ID=com.ea.app.nfsuc
+URL=http://undercover.needforspeed.com
+SaveFiles="res_nfsuc/gamedata,res_nfsuc/gamesett"

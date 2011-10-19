@@ -1,0 +1,10 @@
+[Info]
+Title=Toonwarz
+Description="control of a one-man army on a death defying mission behind enemy lines. Storm the fortified enemy stronghold and fight your way to its’ very core to rescue the imprisoned hostages before it is too late. ToonWarz is a 3D action FPS featuring both single player missions and real-time multiplayer death-matches. Intuitive controls, stunning visuals and intense combat makes ToonWarz a must-play for any serious FPS fan."
+Genre=Action
+PreviewImage=toonwarz.png
+IPK_Name=com.polarbit.toonwarz*_all.ipk
+Space_Required=20
+ID="com.polarbit.toonwarz"
+URL=http://www.polarbit.com/our-games/toonwarz/
+

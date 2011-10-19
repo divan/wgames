@@ -1,0 +1,10 @@
+[Info]
+Title=Giant Robots
+Description="Virtual reality combat simulator. Giant Fighting Robots is designed as a series of mini-games in which the "pilot" of the robot (which is known officially as an All-Terrain Attack Walker, or ATAW) gradually progresses to more and more advanced fighting craft as the machines get more and more capable and customizable. As the game goes on, the user will get access to Gatling guns, lasers, lightning guns, and guided machine guns (among about a dozen other weapons). Battles take place on a dozen different foreign worlds as the user fights back hordes of the heavily armed, artificially intelligent Spider bots." 
+Description_ru_RU="Игра от создателей серии X-Plane, Laminair Researh. Как всегда, отличная физика, наиболее приближенная к реальной, но в этот раз - нереальные битвы на гигантских роботах! Теперь, вместо симуляции полетов, разработчики симулируют прогулки гигантских андроидов по бескрайним ландшафтам и их оружие. Роботы оснащены пулеметами, лазерами и другими смертельными орудиями, а компьютерный интеллект соперника - умен и изобретателен."
+Genre=Combat Simulator
+PreviewImage=giant_robots.png
+IPK_Name=com.laminar-research.app.giant-robots*_all.ipk
+Space_Required=112
+ID=com.laminar-research.app.giant-robots
+URL=http://www.x-plane.com/pg_Giant_Fighting_Robots.html

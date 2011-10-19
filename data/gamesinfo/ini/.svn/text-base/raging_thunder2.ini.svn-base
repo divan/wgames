@@ -1,0 +1,9 @@
+[Info]
+Title=Raging Thunder 2
+Description="Are you ready to take on the most adrenaline pumping 3D street racer ever on a handheld platform? Raging Thunder 2 will take you through abandoned temples, tropical beaches, snow-covered mountains, the Great Wall and a range of other breathtaking vistas the world over!"
+Genre=Racing
+PreviewImage=raging_thunder2.png
+IPK_Name=com.polarbit.rthunder2*_all.ipk
+Space_Required=22
+ID="com.polarbit.rthunder2"
+URL=http://developer.palm.com/appredirect/?packageid=com.polarbit.rthunder2

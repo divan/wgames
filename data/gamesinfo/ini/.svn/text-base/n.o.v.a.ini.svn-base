@@ -1,0 +1,13 @@
+[Info]
+Title=N.O.V.A
+Description="Join the fight for mankind's survival against the aggressive aliens known as Judges in this revolutionary sci-fi FPS. With Earth no longer able to sustain life, huge artificial satellites called "near-orbitals" were constructed for people to live on. To protect themselves, the near-orbitals banded together to form N.O.V.A., the Near Orbit Vanguard Alliance. Against his will, retired marine hero Kal Wardin is forcefully returned to active duty to prevent mankind's annihilation. Plunge into an unparalleled gaming experience!"
+Description_ru_RU="Земля перестала быть пригодной для жизни и огромные спасательные спутники под названием "near-orbitals" созданы для того, чтобы у человечества появился хоть малейший шанс выжить. Чтобы защитить друг-друга, космические пристанища объединились в альянс, который и был назван Near Orbit Vanguard Alliance - N.O.V.A. И как оказалось, это было сделано очень кстати. Из глубин космоса родилась таинственная темная угроза."
+Genre=Shooter
+PreviewImage=nova.png
+IPK_Name=com.gameloft.app.nova*_all.ipk
+Space_Required=87
+ID=com.gameloft.app.nova
+URL=http://www.gameloft.com/palm-games/nova
+Notes="The game is configured to use touchscreen and keyboard<br />Please, use A,D,W,X and Q,E,Z,C keys for moving.<br />More keys:<br />M - menu, Space - jump, L - fire, O - change weapons, K - power kick, I - grenades"
+Notes_ru_RU="Управления в игре адаптировано для использования тачскрина и клавиатуры.<br />Для перемещения пользуйтесь клавишами A,D,W,X и Q,E,Z,C<br />Дополнительно:<br />M - меню, Пробел - прыжок, L - огонь, O - смена оружия, K - удар энергией, I - гранаты."
+Postinstall=nova.sh

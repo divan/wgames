@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/wgames/!svn/ver/31/trunk/hacks/preenv-jflatt
+END
+preenv-jflatt.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wgames/!svn/ver/31/trunk/hacks/preenv-jflatt/preenv-jflatt.pro
+END
+joystick.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/wgames/!svn/ver/31/trunk/hacks/preenv-jflatt/joystick.c
+END
+SDL_cinema.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/wgames/!svn/ver/31/trunk/hacks/preenv-jflatt/SDL_cinema.h
+END
+sdlgl.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/wgames/!svn/ver/31/trunk/hacks/preenv-jflatt/sdlgl.c
+END
+haptic.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/wgames/!svn/ver/31/trunk/hacks/preenv-jflatt/haptic.c
+END
+x11.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/wgames/!svn/ver/31/trunk/hacks/preenv-jflatt/x11.c
+END
+private.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/wgames/!svn/ver/31/trunk/hacks/preenv-jflatt/private.c
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/wgames/!svn/ver/31/trunk/hacks/preenv-jflatt/config.h
+END
+SDLGL.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/wgames/!svn/ver/31/trunk/hacks/preenv-jflatt/SDLGL.h
+END
+gles1.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/wgames/!svn/ver/31/trunk/hacks/preenv-jflatt/gles1.c
+END
+private.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/wgames/!svn/ver/31/trunk/hacks/preenv-jflatt/private.h
+END
+pdl.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/wgames/!svn/ver/31/trunk/hacks/preenv-jflatt/pdl.c
+END
+SDL_haptic.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/wgames/!svn/ver/31/trunk/hacks/preenv-jflatt/SDL_haptic.h
+END
+sdl.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/wgames/!svn/ver/31/trunk/hacks/preenv-jflatt/sdl.c
+END
+override.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/wgames/!svn/ver/31/trunk/hacks/preenv-jflatt/override.h
+END
+PDL.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/wgames/!svn/ver/31/trunk/hacks/preenv-jflatt/PDL.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/wgames/!svn/ver/31/trunk/hacks/preenv-jflatt/COPYING
+END
+wrapper-wgames.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/wgames/!svn/ver/31/trunk/hacks/preenv-jflatt/wrapper-wgames.sh
+END
+debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/wgames/!svn/ver/31/trunk/hacks/preenv-jflatt/debug.h
+END
+cinema.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/wgames/!svn/ver/31/trunk/hacks/preenv-jflatt/cinema.c
+END

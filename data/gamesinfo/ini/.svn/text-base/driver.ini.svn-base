@@ -1,0 +1,14 @@
+[Info]
+Title=Driver
+Description="You are Tanner, an undercover cop whose mission is to topple the Los Angeles Mafia. For the first time on mobile, ride through a huge city and dive right into the heart of even more explosive action thanks to the new view, just like in console games. Get ready for ultra-risky missions on foot and by car in the heart of Los Angeles, where you'll infiltrate gangs, protect informants, and chase bank robbers at breakneck speeds in hellish road pursuits worthy of the greatest Hollywood blockbusters! Tanner, get ready to do whatever it takes to protect your cover and bring down the big fishes of the City of Angels."
+Description_ru_RU="Игра Driver - история о нелегкой жизни и приключениях водителя Таннера, который занимается тем, что водит для бандитов всё, что может иметь колёса в этой игре. Захватывающая история из 40 миссий в 4 гигантских городах, дополнительные режимы. Беспрецедентная мобильная физика. Самое реалистичное городское окружение. Отличный саундтрек."
+Genre=Racing
+PreviewImage=driver.png
+IPK_Name=com.gameloft.app.driver*_all.ipk
+Space_Required=213
+ID=com.gameloft.app.driver
+URL=http://www.gameloft.com/palm/driver/
+Notes="The game is configured to use touchscreen and keyboard<br />Keyboard mapping: M - menu, P - autopilot, I - map, O - go, L - brake, Z - left, D - right, W - accelerate, Q - left accelerate, E - right accelerate, X - hand brake, Z - left brake, C - right brake"
+Notes_ru_RU="Управление в игре адаптировано для использования тачскрина и клавиатуры.<br />Клавиши:  M - меню, P - автопилот, I - карта, O - газ, L - тормоз, Z - влево, D - вправо, W - ускорение, Q - ускорение влево, E - ускорение вправо, X - ручних, Z - ручних влево, C - ручник вправо"
+Preload="PowerVR:BIN_DIR"
+Postinstall=driver.sh

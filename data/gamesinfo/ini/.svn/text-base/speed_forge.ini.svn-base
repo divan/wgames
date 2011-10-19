@@ -1,0 +1,10 @@
+[Info]
+Title=Speed Forge
+Description="Prepare for a frantic race along the stunning Martian surface in advanced hovercrafts. Rock crashing explosions, super-powerful weaponry and immersive environments to increase the excitement at every opportunity!"
+Description_ru_RU="Футуристические гонки на космических кораблях по марсианским трассам с возможностью атаковать противника."
+Genre=Racing
+PreviewImage=speed_forge.png
+IPK_Name=com.palmdts.app.speedforge_*_all.ipk
+Space_Required=213
+ID=com.palmdts.app.speedforge
+URL=http://developer.palm.com/appredirect/?packageid=com.palmdts.app.speedforge

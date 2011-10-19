@@ -1,0 +1,11 @@
+[Info]
+Title=Angry Birds
+Description="The survival of the Angry Birds is at stake. Dish out revenge on the green pigs who stole the Birds’ eggs. Use the unique destructive powers of the Angry Birds to lay waste to the pigs’ fortified castles. Angry Birds features hours of gameplay, challenging physics-based castle demolition, and lots of replay value. Each of the 225 levels requires logic, skill, and brute force to crush the enemy. Protect wildlife, or play Angry Birds!"
+Genre=Logical
+PreviewImage=angrybirds.png
+IPK_Name=com.rovio.angrybirds*_all.ipk
+Space_Required=29
+ID=com.rovio.angrybirds
+URL=http://developer.palm.com/appredirect/?packageid=com.rovio.angrybirds&applicationid=4830
+Preload="/media/internal/:BIN_DIR;PowerVR:BIN_DIR"
+Postinstall=angrybirds.sh

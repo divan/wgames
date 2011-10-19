@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Name=WebOS Games
+Exec=/usr/bin/wgames
+Icon=wgames
+X-Window-Icon=wgames
+X-Osso-Type=application/x-executable
+X-Window-Icon-Dimmed=wgames

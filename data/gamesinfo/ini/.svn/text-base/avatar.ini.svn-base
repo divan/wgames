@@ -1,0 +1,15 @@
+[Info]
+Title=Avatar
+Description="Third person video game prequiel to James Cameron's film of the same name. The game starts in year 2152."
+Description_ru_RU="Трехмерная игра по мотивам одноименного фильма Джеймса Кэмерона. Отличная графика и интересный геймплей."
+Genre=Action
+PreviewImage=avatar.png
+IPK_Name=com.gameloft.app.avatar*_all.ipk
+Space_Required=218
+ID=com.gameloft.app.avatar
+URL=http://www.gameloft.com/mobile/avatar/
+Notes="The game is configured to use touchscreen and keyboard<br />Please, use A,D,W,X and Q,E,Z,C keys for moving avatar.<br />More keys:<br />I - browse, M - menu, O - jump, K - action, L - change weapons, P - power kick"
+Notes_ru_RU="Управление в игре адаптировано для использования тачскрина и клавиатуры.<br />Для перемещения пользуйтесь клавишами A,D,W,X и Q,E,Z,C<br />Дополнительно:<br />I - обзор, M - меню, O - прыжок, K - действие, L - смена оружия, P - удар силы"
+Preload="PowerVR:BIN_DIR"
+Postinstall=avatar.sh
+SaveFiles="savesettings,savegame"

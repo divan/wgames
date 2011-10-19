@@ -1,0 +1,55 @@
+wgames (0.6.9) unstable; urgency=low
+
+  * Added multitouch keyboard mapping support via using jflatt's version of
+    preenv. NOTE: now we use own libsdlpre, not official one.
+  * Added tracker configuration support - now Games Data dir will be
+    automatically removed from tracker cache.
+  * Changed extracting method, removed dependency from binutils.
+  * Added new games support. Thanks to @phap, @shazosbourne, @MIK546,
+    @clasificado.
+  * Removed "Go to Game Website" button and added note regarding situation
+    with buying/downloading .ipk.
+  * Added new translations
+
+ -- Ivan Daniluk <ivan.daniluk@gmail.com>  Sat,  2 Apr 2011 19:54:30 +0300
+
+wgames (0.6.8) unstable; urgency=low
+
+  * Optified
+  * Added 'Play' button in the games' list window
+  * Added Chinese translation. (thanks to wang)
+  * Added Hawx game support
+  * Bugfixes
+
+ -- Ivan Daniluk <ivan.daniluk@gmail.com>  Thu, 10 Mar 2011 14:41:49 +0200
+
+wgames (0.6.7) unstable; urgency=low
+
+  * Added json IDs checks
+  * Added ID by mask support (Monopoly game bug - different versions has
+    different IDs)
+  * In Settings, directory selector now allows to select any dir (not just
+    under MyDocs)
+  * Added Giant Robots game support 
+
+ -- Ivan Daniluk <ivan.daniluk@gmail.com>  Wed,  9 Mar 2011 01:42:08 +0200
+
+wgames (0.6.6) unstable; urgency=low
+
+  * Fixed few games descriptions
+  * Added talk.maemo.org link as bugtracker link
+
+ -- Ivan Daniluk <ivan.daniluk@gmail.com>  Tue,  8 Mar 2011 02:51:38 +0200
+
+wgames (0.6.5) unstable; urgency=low
+
+  * Fixed settings bug
+  * Fixed URL for .ipk search dialog
+
+ -- Ivan Daniluk <ivan.daniluk@gmail.com>  Tue,  8 Mar 2011 01:53:49 +0200
+
+wgames (0.6.4) unstable; urgency=low
+
+  * Initial Release.
+
+ -- Ivan Daniluk <ivan.daniluk@gmail.com>  Mon, 28 Feb 2011 18:35:51 +0200

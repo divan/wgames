@@ -1,0 +1,14 @@
+[Info]
+Title=Asphalt 5
+Description="Modern 3D racing game, with accelerometer controls. Get in, start up and punch it in the fastest dream cars ever created by some of the most prestigious manufacturers in the world. Everything you’ve ever dreamed of doing behind the wheel is here on your N900."
+Description_ru_RU="Популярный симулятор гонок с потрясающей 3D графикой и управлением с помощью акселерометра. Парк из 33 спорт-каров, 12 трасс, тюнинг и многое другое. "
+Genre=Racing
+PreviewImage=asphalt5.png
+IPK_Name=com.gameloft.app.asphalt5*_all.ipk
+Space_Required=213
+ID=com.gameloft.app.asphalt5
+URL=http://www.gameloft.com/palm-games/asphalt-5
+Notes="Game is crashes pretty often, so just be patient and restart it. Best play experience with TV-Out."
+Notes_ru_RU="Игра часто вылетает. Просто перезапустите ещё раз и надейтесь, что всё получится. Лучше всего играется с подключенным телевизором."
+Preload="/media/internal/:BIN_DIR;PowerVR:BIN_DIR"
+Postinstall=asphalt5.sh
